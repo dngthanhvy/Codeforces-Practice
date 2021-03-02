@@ -1,3 +1,6 @@
+# A team will only write a solution to a problem if at least 2 members know the solution to the problem
+# Print the number of problems that they can solve
+
 n = int(input())
 
 sure = []

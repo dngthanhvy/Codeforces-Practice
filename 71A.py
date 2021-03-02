@@ -1,3 +1,6 @@
+# If the length of the word is strictly more than 10, abbreviate the word so that the word is composed of only the first
+# and the last letter, and between them the number of letters between the first and the last.
+
 n = int(input())
 words = []
 
